@@ -2,7 +2,7 @@
 :linkcss:
 :page-layout: feature
 :nofooter:
-ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
 * <<../config/application#,application>>
 * link:../config/applicationManage#r[applicationManager]
 * <<jndi-1.0#,jndi-1.0>>
