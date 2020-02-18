@@ -3,6 +3,8 @@
 :page-layout: feature
 :nofooter:
 
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
 * <<../config/application#,application>>
 * link:../config/applicationManager.html#[applicationManager]
 * <<jndi-1.0#,jndi-1.0>>
