@@ -6,9 +6,9 @@
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 * <<../config/application#,application>>
-* link:../config/applicationManager#{outfilesuffix}[applicationManager]
+* link:../config/applicationManager{outfilesuffix}[applicationManager]
 * <<jndi-1.0#,jndi-1.0>>
-* link:jakartaee-8.0#{outfilesuffix}[jakartaee-8.0]
+* link:jakartaee-8.0{outfilesuffix}[jakartaee-8.0]
 
 include::./gen/appClientSupport-1.0.gendoc[tag=description]
 
