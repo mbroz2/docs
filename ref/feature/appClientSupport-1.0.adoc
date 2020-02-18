@@ -3,10 +3,10 @@
 :page-layout: feature
 :nofooter:
 
-* <<../conig/application,application>>
-* link:../conig/applicationManager[applicationManager]
-* <<jndi-1.0,jndi-1.0>>
-* link:jakartaee-8.0[jakartaee-8.0]
+* <<../conig/application#,application>>
+* link:../conig/applicationManage#r[applicationManager]
+* <<jndi-1.0#,jndi-1.0>>
+* link:jakartaee-8.0#[jakartaee-8.0]
 
 include::./gen/appClientSupport-1.0.gendoc[tag=description]
 
