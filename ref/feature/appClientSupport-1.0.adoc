@@ -2,9 +2,9 @@
 :linkcss:
 :page-layout: feature
 :nofooter:
-
-* <<../conig/application#,application>>
-* link:../conig/applicationManage#r[applicationManager]
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+* <<../config/application#,application>>
+* link:../config/applicationManage#r[applicationManager]
 * <<jndi-1.0#,jndi-1.0>>
 * link:jakartaee-8.0#[jakartaee-8.0]
 
