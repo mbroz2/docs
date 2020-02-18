@@ -4,9 +4,9 @@
 :nofooter:
 
 * <<../config/application#,application>>
-* link:../config/applicationManage#r[applicationManager]
+* link:../config/applicationManager.html#[applicationManager]
 * <<jndi-1.0#,jndi-1.0>>
-* link:jakartaee-8.0#[jakartaee-8.0]
+* link:jakartaee-8.0.adoc#[jakartaee-8.0]
 
 include::./gen/appClientSupport-1.0.gendoc[tag=description]
 
